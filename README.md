@@ -4,6 +4,7 @@
 ## Languages
 
 * Java
+* Groovy
 * Javascript
 
 ## Framework
@@ -14,6 +15,9 @@
 
 ## Technical Environment
 
+* Maven
+* Gradle
+* Node
 * Jenkins
 * Docker
 * MySql
