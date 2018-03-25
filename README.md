@@ -20,7 +20,6 @@
 * Node
 * Jenkins
 * Docker
-* MySql
 * MongoDb
 
 ## Commit message convention
